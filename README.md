@@ -1,2 +1,2 @@
 # clock_face
-Create clock face for teaching time
+Python script to create a clock face for teaching time
